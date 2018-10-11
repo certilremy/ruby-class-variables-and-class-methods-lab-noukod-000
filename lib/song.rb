@@ -35,4 +35,8 @@ end
           end
           artist_hash
         end
+
+        def self.count
+    @@count
+  end
 end
